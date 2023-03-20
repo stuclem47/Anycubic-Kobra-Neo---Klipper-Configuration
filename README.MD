@@ -29,4 +29,4 @@ END_PRINT
 (This will raise Z by 5mm, present bed and turn off heaters, part colling fan and steppers).
 ##
 The code and commenting is not the cleanest. I have tested with multiple prints without issue, but as always: 
-***USE AT YOUR OWN RISK***
+***USE AT YOUR OWN RISK ***
