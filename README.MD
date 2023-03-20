@@ -2,7 +2,7 @@
 
 ## Based on printer.cfg by 1coderookie (https://github.com/1coderookie/Klipper4KobraGoNeo) - with some changes. I recommend you visit his GitHub page as it has very useful information and links.
 
-I have set up to use the probe for Z home instead of the endstop (this is my preference on my other printers). Z safe homing now in bed centre.
+I have set up to use the probe for Z home instead of the endstop This is my personal preference and is set this way on my other printers. Z safe homing is now set to bed centre.
 
 ## Included two extra files:
 
