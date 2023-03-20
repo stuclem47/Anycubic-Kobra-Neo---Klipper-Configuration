@@ -6,7 +6,8 @@ I have set up to use the probe for Z home instead of the endstop This is my pers
 
 ## Included two extra files:
 
-gcode.cfg - this includes the macros from the mainsail.cfg (CANCEL_PRINT, PAUSE, RESUME etc). These are not touched from stock, but should get you past any errors if using either Fluidd or Mainsail. **NOTE you will have to change the path in [virtual_sdcard] section to suit your install - I am using two machine intances on my Pi with seperate directories for virtual SD.
+gcode.cfg - this includes the macros from the mainsail.cfg (CANCEL_PRINT, PAUSE, RESUME etc). These are not touched from stock, but should get you past any errors if using either Fluidd or Mainsail. 
+**NOTE: you will have to change the path in [virtual_sdcard] section to suit your install - I am using two machine intances on my Pi, with seperate directories for virtual SD.**
 
 macros.cfg - includes macros for START_PRINT, END_PRINT & PRIME_NOZZLE- (used in START_PRINT)
 
